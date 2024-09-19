@@ -1,6 +1,4 @@
-package javapractice;
-
-import java.sql.SQLOutput;
+package September;
 
 public class Practice0007 {
     public static void main(String[] args) {

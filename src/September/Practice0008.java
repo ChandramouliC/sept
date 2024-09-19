@@ -1,4 +1,4 @@
-package javapractice;
+package September;
 
 public class Practice0008 {
     public static void main(String[] args) {
