@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24107ff3-d13d-4317-99df-47e52e4b8a12" name="Changes" comment="18th Rename Task">
-      <change afterPath="$PROJECT_DIR$/src/September/ex_20092024/Lab001FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_20092024/lab002Maxof3numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_20092024/lab003GradeTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_20092024/lab04LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_20092024/lab05TriangleClassifier.java" afterDir="false" />
+    <list default="true" id="24107ff3-d13d-4317-99df-47e52e4b8a12" name="Changes" comment="20th September task">
+      <change afterPath="$PROJECT_DIR$/src/September/ex_23092024Switch/CalculatorSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_23092024Switch/MonthSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_23092024Switch/UnitsConversionSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab01Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab02Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab03Primenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab04CountVowleConsonents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/September/practice0004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/September/practice0004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/September/practice001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/September/practice001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +64,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculatorSwitch.executor": "Run",
     "Application.Lab001FizzBuzzTest.executor": "Run",
+    "Application.Lab01Table.executor": "Run",
+    "Application.Lab03Primenumber.executor": "Run",
+    "Application.Lab04CountVowleConsonents.executor": "Run",
+    "Application.MonthSwitch.executor": "Run",
     "Application.Practice0007.executor": "Run",
     "Application.Practice0008.executor": "Run",
     "Application.Practice0009.executor": "Run",
     "Application.Practice0011.executor": "Run",
+    "Application.UnitsConversionSwitch.executor": "Run",
     "Application.class0002.executor": "Run",
     "Application.class0005.executor": "Run",
     "Application.lab002.executor": "Run",
@@ -86,13 +94,13 @@
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Lab001FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_20092024.Lab001FizzBuzzTest" />
+  <component name="RunManager" selected="Application.Lab02Factorial">
+    <configuration name="Lab01Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_25092024.Lab01Table" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_20092024.*" />
+          <option name="PATTERN" value="September.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice0011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.Practice0011" />
+    <configuration name="Lab02Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_25092024.Lab02Factorial" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.*" />
+          <option name="PATTERN" value="September.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab002Maxof3numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_20092024.lab002Maxof3numbers" />
+    <configuration name="Lab03Primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_25092024.Lab03Primenumber" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_20092024.*" />
+          <option name="PATTERN" value="September.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab003GradeTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_20092024.lab003GradeTernary" />
+    <configuration name="Lab04CountVowleConsonents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_25092024.Lab04CountVowleConsonents" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_20092024.*" />
+          <option name="PATTERN" value="September.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab05TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_20092024.lab05TriangleClassifier" />
+    <configuration name="UnitsConversionSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_23092024Switch.UnitsConversionSwitch" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_20092024.*" />
+          <option name="PATTERN" value="September.ex_23092024Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab05TriangleClassifier" />
-        <item itemvalue="Application.lab003GradeTernary" />
-        <item itemvalue="Application.lab002Maxof3numbers" />
-        <item itemvalue="Application.Lab001FizzBuzzTest" />
-        <item itemvalue="Application.Practice0011" />
+        <item itemvalue="Application.Lab02Factorial" />
+        <item itemvalue="Application.Lab03Primenumber" />
+        <item itemvalue="Application.Lab01Table" />
+        <item itemvalue="Application.Lab04CountVowleConsonents" />
+        <item itemvalue="Application.UnitsConversionSwitch" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726736713428</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20th September task">
+      <option name="closed" value="true" />
+      <created>1726830953294</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726830953294</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,7 +244,8 @@
     <MESSAGE value="upload all files" />
     <MESSAGE value="18th Task" />
     <MESSAGE value="18th Rename Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="18th Rename Task" />
+    <MESSAGE value="20th September task" />
+    <option name="LAST_COMMIT_MESSAGE" value="20th September task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
