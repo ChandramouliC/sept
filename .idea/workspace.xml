@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24107ff3-d13d-4317-99df-47e52e4b8a12" name="Changes" comment="20th September task">
-      <change afterPath="$PROJECT_DIR$/src/September/ex_23092024Switch/CalculatorSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_23092024Switch/MonthSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_23092024Switch/UnitsConversionSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab01Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab02Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab03Primenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab04CountVowleConsonents.java" afterDir="false" />
+    <list default="true" id="24107ff3-d13d-4317-99df-47e52e4b8a12" name="Changes" comment="25th task">
+      <change afterPath="$PROJECT_DIR$/src/September/ex_27092024/Lab01while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_27092024/Lab02DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_27092024/Lab03EvenNumbersUsingDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_27092024/Lab04SumOfNumbersUsingWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/September/practice001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/September/practice001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/September/ex_20092024/lab05TriangleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/September/ex_20092024/lab05TriangleClassifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +64,13 @@
     "Application.CalculatorSwitch.executor": "Run",
     "Application.Lab001FizzBuzzTest.executor": "Run",
     "Application.Lab01Table.executor": "Run",
+    "Application.Lab01while.executor": "Run",
+    "Application.Lab02DoWhile.executor": "Run",
+    "Application.Lab02Factorial.executor": "Run",
+    "Application.Lab03EvenNumbersUsingDoWhile.executor": "Run",
     "Application.Lab03Primenumber.executor": "Run",
     "Application.Lab04CountVowleConsonents.executor": "Run",
+    "Application.Lab04SumOfNumbersUsingWhile.executor": "Run",
     "Application.MonthSwitch.executor": "Run",
     "Application.Practice0007.executor": "Run",
     "Application.Practice0008.executor": "Run",
@@ -94,13 +96,13 @@
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab02Factorial">
-    <configuration name="Lab01Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_25092024.Lab01Table" />
+  <component name="RunManager">
+    <configuration name="Lab01while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_27092024.Lab01while" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_25092024.*" />
+          <option name="PATTERN" value="September.ex_27092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab03Primenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_25092024.Lab03Primenumber" />
+    <configuration name="Lab03EvenNumbersUsingDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_27092024.Lab03EvenNumbersUsingDoWhile" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_25092024.*" />
+          <option name="PATTERN" value="September.ex_27092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab04CountVowleConsonents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_25092024.Lab04CountVowleConsonents" />
+    <configuration name="Lab04SumOfNumbersUsingWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_27092024.Lab04SumOfNumbersUsingWhile" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_25092024.*" />
+          <option name="PATTERN" value="September.ex_27092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitsConversionSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_23092024Switch.UnitsConversionSwitch" />
+    <configuration name="lab05TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="September.ex_20092024.lab05TriangleClassifier" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_23092024Switch.*" />
+          <option name="PATTERN" value="September.ex_20092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab01while" />
+        <item itemvalue="Application.lab05TriangleClassifier" />
+        <item itemvalue="Application.Lab04SumOfNumbersUsingWhile" />
+        <item itemvalue="Application.Lab03EvenNumbersUsingDoWhile" />
         <item itemvalue="Application.Lab02Factorial" />
-        <item itemvalue="Application.Lab03Primenumber" />
-        <item itemvalue="Application.Lab01Table" />
-        <item itemvalue="Application.Lab04CountVowleConsonents" />
-        <item itemvalue="Application.UnitsConversionSwitch" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726830953294</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="25th task">
+      <option name="closed" value="true" />
+      <created>1727353872773</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727353872773</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,7 +255,8 @@
     <MESSAGE value="18th Task" />
     <MESSAGE value="18th Rename Task" />
     <MESSAGE value="20th September task" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th September task" />
+    <MESSAGE value="25th task" />
+    <option name="LAST_COMMIT_MESSAGE" value="25th task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

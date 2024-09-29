@@ -5,6 +5,8 @@ public class lab05TriangleClassifier {
         int a=50;
         int b=20;
         int c=50;
+
+        //if(a==1&& b==1&&c==1)
         if (a==b && a==c && b==a)
             System.out.println("Equliteral Traingle");
 
