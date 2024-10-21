@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24107ff3-d13d-4317-99df-47e52e4b8a12" name="Changes" comment="27th task">
+    <list default="true" id="24107ff3-d13d-4317-99df-47e52e4b8a12" name="Changes" comment="30th task">
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_02102024/ATBStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_04102024/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_09102024/Inhertance/HierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_09102024/Inhertance/L01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_09102024/Inhertance/MultilevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_09102024/Inhertance/SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_09102024/Polymorphism/OverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_09102024/Polymorphism/OverRiding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_09102024/Polymorphism/poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_11102024/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_11102024/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_11102024/TestCaseAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_14102024/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Ex_14102024/PrintMyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/Lab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/ex_18102024/LenthOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/ex_18102024/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/ex_18102024/ReverseString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pattern/Star/Lab01RightMirror.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pattern/Star/Lab02LeftToRight.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pattern/Star/Lab03.java" afterDir="false" />
@@ -14,11 +32,8 @@
       <change afterPath="$PROJECT_DIR$/src/Pattern/Star/Lab08.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pattern/Star/lab04LeftMirror.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pattern/p.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_30092024/Lab01Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_30092024/Lab02PrimeNumbersForloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_30092024/Lab03CountVowlConsonentString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/September/ex_25092024/Lab03Primenumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab03Primenumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/September/ex_25092024/Lab02Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/September/ex_25092024/Lab02Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,64 +82,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculatorSwitch.executor": "Run",
-    "Application.Lab001FizzBuzzTest.executor": "Run",
-    "Application.Lab01.executor": "Debug",
-    "Application.Lab01Factorial.executor": "Run",
-    "Application.Lab01RightMirror.executor": "Run",
-    "Application.Lab01Table.executor": "Run",
-    "Application.Lab01while.executor": "Run",
-    "Application.Lab02.executor": "Run",
-    "Application.Lab02DoWhile.executor": "Run",
-    "Application.Lab02Factorial.executor": "Run",
-    "Application.Lab02LeftToRight.executor": "Run",
-    "Application.Lab02PrimeNumbersForloop.executor": "Run",
-    "Application.Lab03.executor": "Run",
-    "Application.Lab03CountVowlConsonentString.executor": "Run",
-    "Application.Lab03EvenNumbersUsingDoWhile.executor": "Run",
-    "Application.Lab03Primenumber.executor": "Run",
-    "Application.Lab04CountVowleConsonents.executor": "Run",
-    "Application.Lab04SumOfNumbersUsingWhile.executor": "Run",
-    "Application.Lab05.executor": "Run",
-    "Application.Lab05MiddleTriangle.executor": "Run",
-    "Application.Lab06.executor": "Run",
-    "Application.Lab07.executor": "Run",
-    "Application.MonthSwitch.executor": "Run",
-    "Application.Pattern.Star.Lab01.executor": "Run",
-    "Application.Practice0007.executor": "Run",
-    "Application.Practice0008.executor": "Run",
-    "Application.Practice0009.executor": "Run",
-    "Application.Practice0011.executor": "Run",
-    "Application.UnitsConversionSwitch.executor": "Run",
-    "Application.class0002.executor": "Run",
-    "Application.class0005.executor": "Run",
-    "Application.lab002.executor": "Run",
-    "Application.lab002Maxof3numbers.executor": "Run",
-    "Application.lab003GradeTernary.executor": "Run",
-    "Application.lab04.executor": "Run",
-    "Application.lab04LeapYear.executor": "Run",
-    "Application.lab05TriangleClassifier.executor": "Run",
-    "Application.practice0004.executor": "Run",
-    "Application.practice0006.executor": "Run",
-    "Application.practice001.executor": "Run",
-    "Application.practice002.executor": "Run",
-    "Application.practice003.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/chand/sept/src/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ATBStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BaseClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BikeType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Family_Members.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001FizzBuzzTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab01.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab01Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab01RightMirror.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab01Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab01while.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab02DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab02Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab02LeftToRight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab02PrimeNumbersForloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab03CountVowlConsonentString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab03EvenNumbersUsingDoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab03Primenumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab04CountVowleConsonents.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab04SumOfNumbersUsingWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab05MiddleTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LenthOfString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainPerson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MonthSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverLoading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern.Star.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice0007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice0008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice0009.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice0011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintMyBook.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunnerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Salary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SectionA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Students.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnitsConversionSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.class0002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.class0005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab002Maxof3numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab003GradeTernary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab04LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab05TriangleClassifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p.executor&quot;: &quot;Run&quot;,
+    &quot;Application.poly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice0004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice0006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice003.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/chand/sept/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Lab01RightMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Star.Lab01RightMirror" />
+}</component>
+  <component name="RunManager" selected="Application.ATBStudent">
+    <configuration name="ATBStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October.Ex_02102024.ATBStudent" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.Star.*" />
+          <option name="PATTERN" value="October.Ex_02102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab01while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="September.ex_27092024.Lab01while" />
+    <configuration name="BaseClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October.Ex_14102024.BaseClass" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="September.ex_27092024.*" />
+          <option name="PATTERN" value="October.Ex_14102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab02LeftToRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Star.Lab02LeftToRight" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October.Ex_04102024.Person" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.Star.*" />
+          <option name="PATTERN" value="October.Ex_04102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +191,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Star.Lab03" />
+    <configuration name="PrintMyBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October.Ex_14102024.PrintMyBook" />
       <module name="ATB8XJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.Star.*" />
+          <option name="PATTERN" value="October.Ex_14102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern.p" />
+      <module name="ATB8XJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,10 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab02LeftToRight" />
-        <item itemvalue="Application.Lab03" />
-        <item itemvalue="Application.Lab01RightMirror" />
-        <item itemvalue="Application.Lab01while" />
+        <item itemvalue="Application.p" />
+        <item itemvalue="Application.ATBStudent" />
+        <item itemvalue="Application.PrintMyBook" />
+        <item itemvalue="Application.BaseClass" />
+        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727595138237</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="30th task">
+      <option name="closed" value="true" />
+      <created>1727695366648</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727695366648</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,7 +328,8 @@
     <MESSAGE value="20th September task" />
     <MESSAGE value="25th task" />
     <MESSAGE value="27th task" />
-    <option name="LAST_COMMIT_MESSAGE" value="27th task" />
+    <MESSAGE value="30th task" />
+    <option name="LAST_COMMIT_MESSAGE" value="30th task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -282,6 +338,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/October/Ex_09102024/Inhertance/L01.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

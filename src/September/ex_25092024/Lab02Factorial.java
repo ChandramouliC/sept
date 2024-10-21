@@ -11,7 +11,7 @@ public class Lab02Factorial {
         for(int j=1;j<=i;j++) {
             fact=fact*j;
         }
-        System.out.println("Factorial of"+i+" Value is:"+fact);
+        System.out.println("Factorial of "+i+" Value is:"+fact);
     }
 
 }
